@@ -1,1 +1,1 @@
-# ECE656-Machine_Learning_and_Adaptive_Systems
+Machine Learning and Neural Networks' applications related MATLAB scripts.
